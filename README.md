@@ -14,5 +14,8 @@ This project is a full-stack decentralized application (DApp) that allows users 
 /backend/    - Hardhat backend with smart contracts and deployment logic
               → Solidity contracts, deploy scripts, tests
 ```
+## Try It Out
+You can try the live demo here: https://facility-fe-gold.vercel.app/
+
 
 
