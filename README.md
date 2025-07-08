@@ -1,9 +1,9 @@
 # Decentralized Facility Booking System (DApp)
 
-This project is a full-stack decentralized application (DApp) that allows users to book shared facilities (e.g., rooms, labs, spaces) through smart contracts on the blockchain. It consists of:
+This project is a full-stack decentralized application (DApp) that allows users to book  facilities (e.g., rooms, workshop, spaces) through smart contracts on the blockchain. It consists of:
 
 - **Frontend:** Built with Next.js and deployed on Vercel
-- **Backend:** Built with Hardhat using Solidity smart contracts and deployed on Vercel
+- **Backend:** Built with Hardhat using Solidity smart contracts and deployed on MLSeed
 
 ## Project Structure
 
