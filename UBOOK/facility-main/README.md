@@ -7,7 +7,8 @@ This is the frontend for the Facility Booking DApp, built using **Next.js 13+**,
 - Connect MetaMask wallet
 - Book facilities securely via smart contract
 - Interactive modals and alerts
-
+- Dashboard to view your booking
+  
 ## ▶ Getting Started
 
 ```bash
